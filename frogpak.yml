@@ -1,0 +1,15 @@
+pond:
+  title: FrogPak Test Pond
+  subtitle: A throwaway pond for testing FrogPak
+  remote: frogpak-test
+
+apps:
+  net.dunevent.Barkeep:
+    repo: ajdunevent/Barkeep
+    assets: "{name}-{arch}-latest.flatpak"
+  net.dunevent.Ripples:
+    repo: ajdunevent/Ripples
+    assets: "{name}-{arch}-latest.flatpak"
+  net.dunevent.Sanctum:
+    repo: ajdunevent/Sanctum
+    assets: "{name}-{arch}-latest.flatpak"
