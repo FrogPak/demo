@@ -13,3 +13,5 @@ apps:
   net.dunevent.Sanctum:
     repo: ajdunevent/Sanctum
     assets: "{name}-{arch}-latest.flatpak"
+  io.github.FrogPak.Example:
+    repo: FrogPak/example-app
