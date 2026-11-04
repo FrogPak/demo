@@ -1,17 +1,8 @@
 pond:
-  title: FrogPak Test Pond
+  title: FrogPak Demo Pond
   subtitle: A playground for testing FrogPak
-  remote: frogpak-test
+  remote: demo
 
 apps:
-  net.dunevent.Barkeep:
-    repo: ajdunevent/Barkeep
-    assets: "{name}-{arch}-latest.flatpak"
-  net.dunevent.Ripples:
-    repo: ajdunevent/Ripples
-    assets: "{name}-{arch}-latest.flatpak"
-  net.dunevent.Sanctum:
-    repo: ajdunevent/Sanctum
-    assets: "{name}-{arch}-latest.flatpak"
   io.github.FrogPak.Example:
     repo: FrogPak/example-app
