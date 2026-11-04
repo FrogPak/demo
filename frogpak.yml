@@ -1,6 +1,6 @@
 pond:
   title: FrogPak Test Pond
-  subtitle: A throwaway pond for testing FrogPak
+  subtitle: A playground for testing FrogPak
   remote: frogpak-test
 
 apps:
