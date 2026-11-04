@@ -19,7 +19,7 @@ permissions: {}
 
 jobs:
   pond:
-    uses: FrogPak/engine/.github/workflows/pond.yml@main
+    uses: FrogPak/engine/.github/workflows/pond.yml@v1
     permissions:
       contents: write
       actions: write
